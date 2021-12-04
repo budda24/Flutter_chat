@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "582057007443",
+    "project_id": "angela-chat-f4726",
+    "storage_bucket": "angela-chat-f4726.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:582057007443:android:7dd8e5b66a9e98221e29a6",
+        "android_client_info": {
+          "package_name": "com.tribes.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "582057007443-863rbgra9ee179dau7b0jkqlsk51t9tq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7p6uCdYflGZXIGRXKuJa5X_cXvkEwhR8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "582057007443-863rbgra9ee179dau7b0jkqlsk51t9tq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
